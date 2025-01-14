@@ -7,5 +7,6 @@ React.js, Next.js, TypeScript, Tailwind CSS
 </br>
 **Backend:**
 Node.js, MySQL, Prisma
+</br>
 **Other:**
 Clerk, Stripe
