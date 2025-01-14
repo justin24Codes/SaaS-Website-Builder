@@ -1,5 +1,5 @@
 # SaaS Website Builder
-As golfers, we dream of driving like Rory or playing like Scottie Scheffler. Become one step closer by using Golf In One, a place to view courses, track your rounds, and see stats such as handicap. Improve every day to take your game to the next level. ⛳️
+Dream of crafting stunning websites effortlessly? With this SaaS Website Builder, you can bring your ideas to life in minutes. Design, build, and launch professional websites without touching a line of code. Whether you're a small business owner, a creative freelancer, or just someone with a big idea, our platform empowers you to showcase your story beautifully.
 
 ## Technologies
 **Frontend:**
